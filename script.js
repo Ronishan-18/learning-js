@@ -48,3 +48,5 @@
 function revealname(){
     document.getElementById("heroname").innerText="My name is roni"
 }
+
+
